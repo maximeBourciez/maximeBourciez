@@ -1,42 +1,52 @@
-👋 Salut, je suis Maxime BOURCIEZ
+# 👋 Salut, moi c'est **Maxime BOURCIEZ**
 
-Développeur en Informatique | Étudiant BUT Informatique à l'IUT de Bayonne
+🎓 **Étudiant en 3ᵉ année de BUT Informatique -- IUT de Bayonne**\
+💻 **Développeur Web & Logiciel**
 
-À propos de moi
+------------------------------------------------------------------------
 
-Je suis passionné par l'informatique, actuellement en deuxième année du BUT Informatique à l'IUT de Bayonne. Grâce à mon parcours académique et mes projets personnels, j'ai acquis des compétences solides en développement web, notamment avec les langages suivants :
+## 🚀 Tech Stack
 
-    HTML5, CSS3
-    JavaScript 
-    PHP
-    Python
-    C/C++
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/Qt_logo_2016.svg" alt="Qt" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/angular.svg" alt="Angular" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 
-🎯 Objectif Professionnel : Je recherche un stage à temps plein à partir du 7 avril 2025, jusqu'au 13 juin 2025. Je suis motivé par l'idée de contribuer à des projets concrets tout en continuant d'apprendre et d'approfondir mes compétences techniques. Je suis aussi ouvert pour une alternance, idéalement en développement web (fullstack) !
-🌱 Actuellement j'apprends
+------------------------------------------------------------------------
 
-    Développement d'applications web en HTML, CSS, JS & PHP
-    Programmation orientée objets en C++
-    Méthodes agiles (notamment SCRUM)
+## 🎯 Objectifs
 
-💼 Expérience professionnelle
+🔍 **À la recherche d'une alternance sur 3 ans** à partir de 2025\
+🎓 Dans le cadre de mon **parcours ingénieur à ISANUM** (admission visée
+pour la rentrée prochaine)
 
-    Mise en rayon - E. Leclerc Urrugne - Eté 2023
-    Ouvrier de préparation peinture - EPTA France, Hendaye - Eté 2024
+------------------------------------------------------------------------
 
-🚀 Projets récents
+## 📚 Ce que j'apprends actuellement
 
-    Tous mes projets récents sont visibles sur mon profil, n'hésitez pas à aller faire un tour !
+-   Développement web (front & back)\
+-   Programmation orientée objet\
+-   Méthodes agiles (SCRUM)
 
-🌍 Langues parlées
+------------------------------------------------------------------------
 
-    Français : Langue maternelle
-    Anglais : Niveau B2
-    Espagnol : Niveau B2
+## 🌍 Langues
 
-💬 Me contacter
+-   🇫🇷 Français (natif)\
+-   🇬🇧 Anglais (B2)\
+-   🇪🇸 Espagnol (B2)
 
-    LinkedIn : https://www.linkedin.com/in/maxime-bourciez-72aa0b2b3/
-    Email : maxime.bourciez@gmail.com
+------------------------------------------------------------------------
 
-N'hésitez pas à explorer mes dépôts et à me contacter si vous souhaitez échanger !
+## 💬 Me contacter
+
+-   **LinkedIn** :
+    https://www.linkedin.com/in/maxime-bourciez-72aa0b2b3\
+-   **Email** : maxime.bourciez@gmail.com
