@@ -1,6 +1,6 @@
 # 👋 Salut, moi c'est **Maxime BOURCIEZ**
 
-🎓 **Étudiant en 3ᵉ année de BUT Informatique -- IUT de Bayonne**\
+🎓 **Étudiant en 1ᵉ année de Cycle Ingénieur en architecture applicative -- Institut Supérieur Aquitain Numérique**\
 💻 **Développeur Web & Logiciel**
 
 ------------------------------------------------------------------------
@@ -20,14 +20,6 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
-
-------------------------------------------------------------------------
-
-## 🎯 Objectifs
-
-🔍 **À la recherche d'une alternance sur 3 ans** à partir de 2025\
-🎓 Dans le cadre de mon **parcours ingénieur à ISANUM** (admission visée
-pour la rentrée prochaine)
 
 ------------------------------------------------------------------------
 
